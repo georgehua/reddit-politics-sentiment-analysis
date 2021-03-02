@@ -1,0 +1,5 @@
+data/*
+Wordlists/*
+a1_*.py
+bonus.py
+feats.npz
